@@ -1,15 +1,15 @@
 ## express app
 
-To start the application in development mode, run:
+Install dependencies:
 
 ```bash
-npm run dev
+npm install
 ```
 
-To start the application in production mode, run:
+Start the application:
 
 ```bash
-npm run start
+node index.js
 ```
 
 Access with browser http://localhost:8080
